@@ -1,0 +1,7 @@
+.left-container{
+    width: 60vw;
+    height: 100vh;
+    background-color: rgb(223, 222, 222);
+    overflow: scroll;
+}
+

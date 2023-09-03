@@ -1,0 +1,10 @@
+.rightside-container{
+    width: 40vw;
+    height: 100vh;
+    overflow: scroll;
+    background-color: rgb(231, 230, 230);
+}
+h1{
+    text-align: center;
+    color: rgb(17, 17, 75);
+}
