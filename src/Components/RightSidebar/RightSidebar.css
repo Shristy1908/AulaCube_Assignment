@@ -8,6 +8,6 @@ h1{
     text-align: center;
     color: rgb(17, 17, 75);
 }
-.comments-container{
-    padding:20px;
+.comments-container, .selected-post{
+    margin:0px 20px;
 }
